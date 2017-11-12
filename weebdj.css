@@ -196,7 +196,7 @@ div.chat-msg-Mogge .username:before {
       content: '';
       display: inline-block !important;
       vertical-align: middle;
-      width: 45px !important;
+      width: 35px !important;
       visibility: visible !important;
       height: 30px !important;
       background-size: cover;
