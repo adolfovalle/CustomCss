@@ -1,0 +1,313 @@
+.chat-msg-GeneralTotoss .username:before {
+   content: '';
+   display: inline-block !important;
+   vertical-align: middle;
+   width: 48px !important;
+   visibility: visible !important;
+   height: 27px !important;
+   background-image: url(http://i.imgur.com/DkkURrE.gif);
+   background-size: 60%;
+   background-size: cover;
+}
+
+.chat-msg-ShoeonheadKappa .username:before {
+   content: '';
+   display: inline-block !important;
+   vertical-align: middle;
+   width: 54px !important;
+   visibility: visible !important;
+   height: 28px !important;
+   background-image: url(http://i.imgur.com/pagozDs.gif);
+   background-size: 60%;
+   background-size: cover;
+}
+
+.chat-msg-Uberone .username:before {
+   content: '';
+   display: inline-block !important;
+   vertical-align: middle;
+   width: 23px !important;
+   visibility: visible !important;
+   height: 34px !important;
+   background-image: url(https://cdn.radiant.dj/rcs/emotes/img/tastyplug/billy.png);
+ //background-image: url(http://i.imgur.com/cIEY0c9.gif);
+   background-size: 60%;
+   background-size: cover;
+}
+.chat-msg-Darksbane .username:before {
+      background: url(http://orig00.deviantart.net/d410/f/2012/342/0/e/kirino_kousaka_by_deadcalm-d5msy38.png);
+      width: 25px !important;
+      height: 50px !important;
+      content: '';
+      display: inline-block;
+      vertical-align: middle;
+      background-size: cover;
+      margin-right: 3px;
+} 
+div.chat-msg-UXEN .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 35px !important;
+      visibility: visible !important;
+      height: 35px !important;
+      background-image: url(http://i.imgur.com/XoNwqOv.png);
+}
+div.chat-msg-BlackPowerRanger .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 29px !important;
+      visibility: visible !important;
+      height: 30px !important;
+      background-image: url(http://i.imgur.com/x6PF0G3.png?1);
+}
+div.chat-msg-Mudrac .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 31px !important;
+      visibility: visible !important;
+      height: 40px !important;
+      background-image: url(http://i.imgur.com/hJZGFJf.png);
+}
+
+
+.chat-msg-Mogge .username {
+      color: #FF80E8;
+}
+div.chat-msg-Mogge .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 27px !important;
+      visibility: visible !important;
+      height: 29px !important;
+      background-image: url(http://i.imgur.com/pYrHGy4.png?1);
+}   
+ div.chat-msg-spyroq .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 26px !important;
+      visibility: visible !important;
+      height: 39px !important;
+      background-size: cover;
+      background-image: url(http://i.imgur.com/Img8ZRJ.png?1);
+}   
+.chat-msg-Phaley .username:before {
+      background: url(http://i.imgur.com/1e77rrm.gif);
+      width: 54px !important;
+      height: 30px !important;
+      content: '';
+      display: inline-block;
+      vertical-align: middle;
+      background-size: cover;
+      margin-right: 3px;
+} 
+.chat-msg-rarityw .username:before {
+      background: url(http://i.imgur.com/TSAgpH5.png);
+      width: 33px !important;
+      height: 30px !important;
+      content: '';
+      display: inline-block;
+      vertical-align: middle;
+      background-size: cover;
+      margin-right: 3px;
+} 
+.chat-msg-MaTrEaXa .username:before {
+      background: url(http://i.imgur.com/cg3cShH.gif);
+      width: 28px !important;
+      height: 28px !important;
+      content: '';
+      vertical-align: middle;
+      display: inline-block;
+      margin-right: 3px;
+      background-size: cover;
+}
+
+.chat-msg-Scamaz .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 28px !important;
+      visibility: visible !important;
+      height: 35px !important;
+      background-image: url(http://i.imgur.com/4E77qD2.png?1);
+}
+.chat-msg-Gibbileno .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 25px !important;
+      visibility: visible !important;
+      height: 30px !important;
+      background-image: url(http://i.imgur.com/KpZXYRu.png?1);
+}
+
+.chat-msg-TheNick .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 30px !important;
+      visibility: visible !important;
+      height: 22px !important;
+      background-image: url(http://i.imgur.com/n2nIgPO.png?1);
+}
+.chat-msg-dzerato .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 35px !important;
+      visibility: visible !important;
+      height: 34px !important;
+      background-image: url(http://i.imgur.com/YV1KXFM.png?1);
+}
+.chat-msg-ChacaTheMADMAN .username:before {
+      content: '';
+      background: url(http://i.imgur.com/VAQWVSQ.png);
+      height: 32px !important;
+      width: 36px !important;
+      vertical-align: middle;
+      display: inline-block;
+      background-size: cover;
+}
+.chat-msg-Tassadaritze .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 44px !important;
+      visibility: visible !important;
+      height: 25px !important;
+      background-image: url(http://i.imgur.com/dtmfDHE.gif);
+      background-size: cover;
+}
+.chat-msg-Metalrev .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 40px !important;
+      height: 35px !important;
+      background-image:url(http://i.imgur.com/Km0FqYm.png);
+      background-size: cover;
+      margin-right: 3px;
+}
+.chat-msg-faggotbutnotgay .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 49px !important;
+      visibility: visible !important;
+      height: 30px !important;
+      background-size: cover;
+      background-image:url(https://i.imgur.com/cVIEwa9.png);
+}
+.chat-msg-Loli_no1 .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 35px !important;
+      visibility: visible !important;
+      height: 35px !important;
+      background-size: cover;
+      background-image:url(http://i.imgur.com/6FQ0CQf.gif);
+}
+.chat-msg-FajansFhuj .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 54px !important;
+      visibility: visible !important;
+      height: 30px !important;
+      background-size: cover;
+      background-image:url(http://i.imgur.com/XBqLRJ4.gif);
+}
+.chat-msg-Westerlies .username { 
+      color: #8FD8D8; 
+}
+.chat-msg-Westerlies .username:before {
+      content: '';
+      background: url(http://i.imgur.com/twtI5yS.png);
+      height: 32px;
+      width: 32px;
+      display: inline-block !important;
+      vertical-align: middle;
+      background-size: cover;
+      margin-right: 5px;
+}
+
+.chat-msg-megaman .username:before {
+        content: '';
+display: inline-block !important;
+vertical-align: middle;
+width: 19px !important;
+visibility: visible !important;
+height: 28px !important;
+ background-size: cover;
+background-image:url(http://i.imgur.com/gMRVFb2.png?1);
+}
+
+.chat-msg-ZimnyLech .username:before {
+content: '';
+background: url(http://i.imgur.com/rRKiz0J.png);
+display: inline-block;
+height: 40px;
+width: 32px;
+vertical-align: middle;
+background-size: cover;
+}
+.chat-msg-Cuckboy .username:before {
+content: '';
+display: inline-block;
+vertical-align: middle;
+background: url(http://i.imgur.com/zYlWDTM.png?1);
+width: 40px !important;
+height: 30px !important;
+margin-right: 3px;
+}
+.chat-msg-Midzz .username:before {
+content: '';
+display: inline-block;
+vertical-align: middle;
+background: url(http://i.imgur.com/gYakifP.png?1);
+width: 28px !important;
+height: 28px !important;
+margin-right: 3px;
+}
+.chat-msg-Cet .username:before {
+content: '';
+display: inline-block;
+vertical-align: middle;
+background: url(http://i.imgur.com/DM31BPh.gif);
+width: 32px !important;
+height: 38px !important;
+margin-right: 3px;
+}
+.chat-msg-Halokitty .username:before {
+      background: url(http://i.imgur.com/N1Zfcdn.png);
+      width: 30px !important;
+      height: 30px !important;
+      content: '';
+      display: inline-block;
+      vertical-align: middle;
+      background-size: cover;
+      margin-right: 3px;
+} 
+.chat-msg-Goren-Guy .username:before {
+content: '';
+display: inline-block;
+vertical-align: middle;
+background: url(http://i.imgur.com/dsriTZ9.jpg?1);
+width: 31px !important;
+height: 30px !important;
+margin-right: 3px;
+}
+.chat-msg-kluski .username:before {
+content: '';
+display: inline-block;
+vertical-align: middle;
+background: url(https://cdn.betterttv.net/emote/55999813f0db38ef6c7c663e/1x);
+width: 29px !important;
+height: 29px !important;
+margin-right: 3px;
+}
