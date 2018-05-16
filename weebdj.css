@@ -10,6 +10,9 @@
    background-size: cover;
 }
 
+.chat-msg-Shoesheph .username {
+      color: #ADD8E6;
+}
 .chat-msg-Shoesheph .username:before {
    content: '';
    display: inline-block !important;
@@ -277,6 +280,9 @@ background: url(http://i.imgur.com/gYakifP.png?1);
 width: 28px !important;
 height: 28px !important;
 margin-right: 3px;
+}
+.chat-msg-Cet .username { 
+      color: #FBB4BF; 
 }
 .chat-msg-Cet .username:before {
 content: '';
