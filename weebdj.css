@@ -192,6 +192,10 @@ div.chat-msg-Mogge .username:before {
       background-size: cover;
       margin-right: 3px;
 }
+
+.chat-msg-fagato .username {
+      color: #169cb7;
+}
 .chat-msg-fagato .username:before {
       content: '';
       display: inline-block !important;
