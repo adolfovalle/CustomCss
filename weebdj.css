@@ -1,3 +1,7 @@
+
+.nick-hover {
+   background-color: transparent;
+}
 .chat-msg-GeneralTotoss .username:before {
    content: '';
    display: inline-block !important;
