@@ -2,6 +2,9 @@
 .nick-hover {
    background-color: transparent;
 }
+.linewrap, .linewrap code {
+    background-color: black;
+}
 .chat-msg-GeneralTotoss .username:before {
    content: '';
    display: inline-block !important;
