@@ -1,4 +1,6 @@
-
+.channel-emote {
+    max-width: none;
+}
 .nick-hover {
    background-color: transparent;
 }
