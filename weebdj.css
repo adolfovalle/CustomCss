@@ -68,14 +68,14 @@ div.chat-msg-UXEN .username:before {
       height: 35px !important;
       background-image: url(http://i.imgur.com/XoNwqOv.png);
 }
-div.chat-msg-BlackPowerRanger .username:before {
+div.chat-msg-bokian .username:before {
       content: '';
       display: inline-block !important;
       vertical-align: middle;
       width: 29px !important;
       visibility: visible !important;
       height: 30px !important;
-      background-image: url(http://i.imgur.com/x6PF0G3.png?1);
+      background-image: url(https://img.fireden.net/v/image/1493/68/1493681423904.gif);
 }
 div.chat-msg-Mudrac .username:before {
       content: '';
@@ -88,8 +88,8 @@ div.chat-msg-Mudrac .username:before {
 }
 
 
-.chat-msg-Mogge .username {
-      color: #FF80E8;
+.chat-msg-bokian .username {
+      color: #ffdab9;
 }
 div.chat-msg-Mogge .username:before {
       content: '';
