@@ -72,9 +72,10 @@ div.chat-msg-bokian .username:before {
       content: '';
       display: inline-block !important;
       vertical-align: middle;
-      width: 29px !important;
+      width: 35px !important;
       visibility: visible !important;
       height: 30px !important;
+      background-size: cover;
       background-image: url(https://img.fireden.net/v/image/1493/68/1493681423904.gif);
 }
 div.chat-msg-Mudrac .username:before {
