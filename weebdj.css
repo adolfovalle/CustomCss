@@ -92,7 +92,10 @@ div.chat-msg-Mudrac .username:before {
 .chat-msg-bokian .username {
       color: #ffdab9;
 }
-div.chat-msg-Mogge .username:before {
+.chat-msg-yotsu-cha .username {
+      color: #FF00FF;
+}
+div.chat-msg-yotsu-cha .username:before {
       content: '';
       display: inline-block !important;
       vertical-align: middle;
