@@ -99,9 +99,10 @@ div.chat-msg-yotsu-cha .username:before {
       content: '';
       display: inline-block !important;
       vertical-align: middle;
-      width: 27px !important;
+      width: 35px !important;
       visibility: visible !important;
-      height: 29px !important;
+      height: 30px !important;
+      background-size: cover;
       background-image: url(https://vignette.wikia.nocookie.net/yotsubaand/images/6/66/Yotsuba.png);
 }   
  div.chat-msg-spyroq .username:before {
