@@ -88,7 +88,6 @@ div.chat-msg-Mudrac .username:before {
       background-image: url(http://i.imgur.com/hJZGFJf.png);
 }
 
-
 .chat-msg-bokian .username {
       color: #ffdab9;
 }
@@ -118,16 +117,7 @@ div.chat-msg-yotsu-cha .username:before {
       background-size: cover;
       background-image: url(http://i.imgur.com/Img8ZRJ.png?1);
 }   
-.chat-msg-Phaley .username:before {
-      background: url(http://i.imgur.com/1e77rrm.gif);
-      width: 54px !important;
-      height: 30px !important;
-      content: '';
-      display: inline-block;
-      vertical-align: middle;
-      background-size: cover;
-      margin-right: 3px;
-} 
+
 .chat-msg-poopster .username:before {
       background: url(http://i.imgur.com/1e7axjd.png);
       width: 35px !important;
@@ -229,6 +219,16 @@ div.chat-msg-yotsu-cha .username:before {
       height: 30px !important;
       background-size: cover;
       background-image:url(https://i.imgur.com/cVIEwa9.png);
+}
+.chat-msg-wowlynchwow .username:before {
+      content: '';
+      display: inline-block !important;
+      vertical-align: middle;
+      width: 35px !important;
+      visibility: visible !important;
+      height: 30px !important;
+      background-size: cover;
+      background-image:url(https://i.imgur.com/CuG7LiQ.png);
 }
 .chat-msg-Loli_no1 .username:before {
       content: '';
